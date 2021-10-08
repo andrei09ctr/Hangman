@@ -1,0 +1,46 @@
+#gameTitle {
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+
+}
+
+#textfield {
+	position: absolute;
+	left: 37%;
+    top: 200px;
+	height: 25px;
+	width: 300px;
+	background-color: white;
+	text-align: center;
+	font-style: italic;
+}
+
+#submitBtn {
+	position: absolute;
+	left: 57%;
+	height: 30px;
+	top: 200px;
+	width: 150px;
+	background-color: white;
+	text-align: center;
+	font-style: italic;
+}
+
+#restartGame {
+	visibility: hidden;
+	position: absolute;
+	left: 42%;
+	height: 30px;
+	top: 220px;
+	width: 250px;
+	background-color: white;
+	text-align: center;
+	font-style: italic;
+	
+  }
+
+body {
+	background-color: cadetblue;
+}
